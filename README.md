@@ -15,6 +15,7 @@ There are some more problems presented by the company which your model should be
 - Explain the results in business terms
 - Include visualisations and summarise it.
 
+[](https://github.com/cuteAmi/Ami_Portfolio/blob/master/Images/Lead_Score_top.png)
 
 [Project- 2:Boom Bike_Linear_regression:](https://github.com/cuteAmi/BoomBikes_Linear.git)
 
@@ -37,12 +38,14 @@ A bike-sharing system is a service in which bikes are made available for shared 
 12) Insights:
 
  Also tried to work with Powepoint for better summarize project and better vision.
- 
+
  [Project - 3:LoanAnalysis: with Python & R- Programming Language](https://github.com/cuteAmi/LoanAnalysis_Py.git)(https://github.com/cuteAmi/LoanAnalysis_R.git)
  
  Visualize Insights and Discover Driving Features in Lending Credit Risk Model for Loan Defaults. 
  This time trying to work with Python Programming language and also with R-Programming language for Increase my knowledge.
  Single topic and work with different language gives much more clearity to sharpning and increase the skill.
+ 
+ [] (
  
  [Project - 4:Excel project: Covid, IPL< Sales](https://github.com/cuteAmi/Statistics_Excel.git)
  
