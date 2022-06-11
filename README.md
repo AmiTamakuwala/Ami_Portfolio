@@ -30,7 +30,12 @@ A bike-sharing system is a service in which bikes are made available for shared 
         - checking VIF
         - check VIF and p-value
         - R-square value
- 
+8)  Residual Analysis of the Train Data for the error term. (Distribution plot)
+9)  Making Predictions.
+10)	Model Evaluation 
+11)	Final linear regression Model, which gives an appropriate idea of the dataset. (linear regression plot) 
+12) Insights:
+
  Also tried to work with Powepoint for better summarize project and better vision.
  
  [Project - 3:LoanAnalysis: with Python & R- Programming Language](https://github.com/cuteAmi/LoanAnalysis_Py.git)(https://github.com/cuteAmi/LoanAnalysis_R.git)
@@ -55,10 +60,4 @@ A bike-sharing system is a service in which bikes are made available for shared 
  
 
  
-8)  Residual Analysis of the Train Data for the error term. (Distribution plot)
-9)  Making Predictions.
-10)	Model Evaluation 
-11)	Final linear regression Model, which gives an appropriate idea of the dataset. (linear regression plot) 
-12) Insights:
-
 
