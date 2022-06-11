@@ -53,6 +53,7 @@ A bike-sharing system is a service in which bikes are made available for shared 
  tried to working with advance level of excel. 
  Pivot table,Pivot Chart,spreadsheets, graphing, tables, calculations, and automation efficiently to process large quantities of data relevant to business tasks.
  
+ [](https://github.com/cuteAmi/Ami_Portfolio/blob/master/Images/SalesExcel.png)
  [](
  
  [Project - 5: Design Thinking: Satrbucks, WalStore] (https://github.com/cuteAmi/Case-3_Starbucks.git)(https://github.com/cuteAmi/Case-4_WalStore.git)
