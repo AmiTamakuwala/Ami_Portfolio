@@ -61,7 +61,7 @@ A bike-sharing system is a service in which bikes are made available for shared 
  Every bussiness have some Issues, and they are alwaysb want to solve them.
  For that it is Import to understand the business.
  And for this understanding we should start with basic questions and that starts from 5W & 1H.
- We can start data analysing only when once we have all information about the Business or their management.
+ We can start data analysing only when once we have all information about the Business or their management,
  So, Design Thinking part perform first role in every Data Analysis Journey.
  
 
