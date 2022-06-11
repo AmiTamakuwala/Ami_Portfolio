@@ -45,13 +45,15 @@ A bike-sharing system is a service in which bikes are made available for shared 
  This time trying to work with Python Programming language and also with R-Programming language for Increase my knowledge.
  Single topic and work with different language gives much more clearity to sharpning and increase the skill.
  
- [] (
+ [] (https://github.com/cuteAmi/Ami_Portfolio/blob/master/Images/LoanDefaultAnalysis.png)
  
  [Project - 4:Excel project: Covid, IPL< Sales](https://github.com/cuteAmi/Statistics_Excel.git)
  
  Worked with excel project.
  tried to working with advance level of excel. 
  Pivot table,Pivot Chart,spreadsheets, graphing, tables, calculations, and automation efficiently to process large quantities of data relevant to business tasks.
+ 
+ [](
  
  [Project - 5: Design Thinking: Satrbucks, WalStore] (https://github.com/cuteAmi/Case-3_Starbucks.git)(https://github.com/cuteAmi/Case-4_WalStore.git)
  
