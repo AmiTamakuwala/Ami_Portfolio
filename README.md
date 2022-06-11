@@ -45,7 +45,7 @@ A bike-sharing system is a service in which bikes are made available for shared 
  This time trying to work with Python Programming language and also with R-Programming language for Increase my knowledge.
  Single topic and work with different language gives much more clearity to sharpning and increase the skill.
  
- ![] (/Images/LoanDefaultAnalysis.png)
+ ![](/Images/LoanDefaultAnalysis.png)
  
  [Project - 4:Excel project: Covid, IPL< Sales](https://github.com/cuteAmi/Statistics_Excel.git)
  
