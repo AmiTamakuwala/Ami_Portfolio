@@ -30,6 +30,31 @@ A bike-sharing system is a service in which bikes are made available for shared 
         - checking VIF
         - check VIF and p-value
         - R-square value
+ 
+ Also tried to work with Powepoint for better summarize project and better vision.
+ 
+ [Project - 3:LoanAnalysis: with Python & R- Programming Language](https://github.com/cuteAmi/LoanAnalysis_Py.git)(https://github.com/cuteAmi/LoanAnalysis_R.git)
+ 
+ Visualize Insights and Discover Driving Features in Lending Credit Risk Model for Loan Defaults. 
+ This time trying to work with Python Programming language and also with R-Programming language for Increase my knowledge.
+ Single topic and work with different language gives much more clearity to sharpning and increase the skill.
+ 
+ [Project - 4:Excel project: Covid, IPL< Sales](https://github.com/cuteAmi/Statistics_Excel.git)
+ 
+ Worked with excel project.
+ tried to working with advance level of excel. 
+ Pivot table,Pivot Chart,spreadsheets, graphing, tables, calculations, and automation efficiently to process large quantities of data relevant to business tasks.
+ 
+ [Project - 5: Design Thinking: Satrbucks, WalStore] (https://github.com/cuteAmi/Case-3_Starbucks.git)(https://github.com/cuteAmi/Case-4_WalStore.git)
+ 
+ Every bussiness have some Issues, and they are alwaysb want to solve them.
+ For that it is Import to understand the business.
+ And for this understanding we should start with basic questions and that starts from 5W & 1H.
+ We can start data analysing only when once we have all information about the Business or their management.
+ So, Design Thinking part perform first role in every Data Analysis Journey.
+ 
+
+ 
 8)  Residual Analysis of the Train Data for the error term. (Distribution plot)
 9)  Making Predictions.
 10)	Model Evaluation 
